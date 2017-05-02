@@ -1,4 +1,5 @@
 # CS109B_FinalProject
+Authors: Sarah Mohamed, Laura Ware, and Courtney Cochrane
 
 This repository contains all the code for the IMDb/TMDb genre prediction based on movie metadata and movie posters. There is a folder corresponding to each of the five different milestones:
 - Milestone 1: contains EDA of TMDb and IMDb databases as well as research questions
