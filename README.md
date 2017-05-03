@@ -19,7 +19,7 @@ This repository contains all the code for the IMDb/TMDb genre prediction based o
 See [Link](https://github.com/cocochrane/CS109B_FinalProject/blob/master/Metadata%20and%20Poster%20Data.zip) for the zipped file containing both the data_final.csv which has the data used for supervised learning and a folder containing all the poster images. 
 
 ## Link to our Screencast
-See [Link](............................) for the screencast explaining our work.
+See [Link](https://youtu.be/qKwcGa0T_mw) for the screencast explaining our work.
 
 ## Changes Since Milestone Submission
 See the Milestone 5 folder for all changes since the milestone submissions. This folder highlights the two largest branches of work carried out in the last week before submission- visualizing which posters our neural net thinks are most representative for each genre and comparing and contrasting the neural network and supervised learning results. 
